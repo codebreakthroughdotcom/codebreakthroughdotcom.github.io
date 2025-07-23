@@ -12,13 +12,7 @@ author: Caleb Curry
 
 ## Roles I'm Qualified for...
 
-### Full Stack Software Engineer
-
-I'm most experienced in full stack software engineering. I have experience with both frontend and backend Using Node.js, Django, and React. I prioritize writing code that is both maintainable and performant. I've deployed apps to AWS and am comfortable with Docker, CICD, and microservice architectures.
-
-### Protocol Engineer
-
-I'm experienced in building distributed systems using C++, Go, and Rust. With a passion for decentralization I would be a solid addition to a protocol engineering team. With a background in blockchain and zero knowledge proofs I can confidently build protocols or private dApps.
+### Not much tbh
 
 ## I'm Currently Working on...
 
